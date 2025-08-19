@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetControl Hub", "NetControl Hub\NetControl Hub.csproj", "{2F01A659-EFB6-4E9F-A990-44641643562C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hub Install", "Hub Install\Hub Install.vdproj", "{AA32E791-1662-61E0-9DC8-EC58BFF6812A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F01A659-EFB6-4E9F-A990-44641643562C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F01A659-EFB6-4E9F-A990-44641643562C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F01A659-EFB6-4E9F-A990-44641643562C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F01A659-EFB6-4E9F-A990-44641643562C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA32E791-1662-61E0-9DC8-EC58BFF6812A}.Debug|Any CPU.ActiveCfg = Debug
+		{AA32E791-1662-61E0-9DC8-EC58BFF6812A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F687E3D8-092D-40BD-AE24-58B0496897DF}
+	EndGlobalSection
+EndGlobal
